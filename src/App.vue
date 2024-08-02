@@ -5,7 +5,7 @@ import SectionJawabanSoal2 from '@/components/soal-2/section-jawaban-soal-2.vue'
 
 <template>
   <div class="container space-y-6 py-4">
-    <div class="font-bold text-2xl">Test DB KIK (IT Programmer) _ Rizky Putra Ednar</div>
+    <div class="font-bold text-2xl">Test DB KLIK (IT Programmer) _ Rizky Putra Ednar</div>
     <section-jawaban-soal1 />
     <section-jawaban-soal2 />
   </div>
